@@ -11,8 +11,8 @@ PC and phone app control
 Dark/light mode switching
 
 Camera control
-git clone https://github.com/yourusername/project-name.git
-cd project-name
+git clone https://github.com/rishukumari7250/OMNIBRAI_A.I_ASSISTANT
+cd OMNIBRAI_A.I_ASSISTANT
 pip install -r requirements.txt
 python main.py
 Explain how to use the project:
